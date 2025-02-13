@@ -1,4 +1,4 @@
-# How-To: Write Monte Carlo Event Generator
+# How to Write Monte Carlo Event Generator
 
 ## Introduction
 
