@@ -1,6 +1,6 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-title: How-To: Write a Monte Carlo Event Generator
+title: How to Write a Monte Carlo Event Generator
 format: jb-book
 root: intro
 options:  # The options key will be applied to all chapters, but not sub-sections
