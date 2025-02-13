@@ -11,4 +11,3 @@ chapters:
 - file: integration/CrossSection.ipynb
 - file: eventgeneration/introduction.ipynb
 - file: eventgeneration/eemumu.ipynb
-
