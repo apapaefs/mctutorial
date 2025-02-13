@@ -2,9 +2,5 @@ jupyter-book
 matplotlib
 numpy
 scipy
-pandas
 tqdm
 PrettyTable
-sympy
-torch
-numba
