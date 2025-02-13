@@ -1,10 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Computational Physics I (PHYS 3500K)
+title: How-To: Write Monte Carlo Event Generator
 author: Andreas Papaefstathiou
-logo: d2lbanner2.png
-copyright : 2024
+logo: mclogo.png
+copyright : 2025
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
